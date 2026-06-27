@@ -1,0 +1,17 @@
+feature,coefficient,points
+cat__Overall.Stage_IIIb,-0.45186356466531563,-2
+num__Clinical.N.Stage,0.41140983146350646,2
+cat__Overall.Stage_I,0.29810396745160256,2
+cat__Histology_adenocarcinoma,-0.2436646710562633,-1
+num__series_n,0.23695103104629137,1
+cat__Overall.Stage_II,0.2067526335263629,1
+num__clinical.T.Stage,0.20264226471224311,1
+cat__Histology_squamous cell carcinoma,0.19140109153866777,1
+num__Clinical.M.Stage,0.18932004585522758,1
+cat__gender_male,0.14209729017302727,1
+cat__gender_female,-0.13101954474718858,-1
+cat__Histology_nos,0.12556977957935678,1
+num__age,0.12500096417532508,1
+cat__Histology_large cell,-0.06222845463592226,0
+num__total_image_count,0.0568366531628082,0
+cat__Overall.Stage_IIIa,-0.041915290886811146,0

@@ -1,0 +1,2 @@
+Downloaded from a public GitHub mirror of Lung1.clinical.csv. Verify against the official TCIA/NSCLC-Radiomics attachment before submission.
+URL: https://raw.githubusercontent.com/dannyjanani/Lung-Cancer-Detection/master/Lung1.clinical.csv

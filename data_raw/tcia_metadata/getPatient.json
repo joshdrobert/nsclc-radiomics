@@ -1,0 +1,3800 @@
+[
+  {
+    "PatientId": "LUNG1-001",
+    "PatientName": "LUNG1-001",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-007",
+    "PatientName": "LUNG1-007",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-029",
+    "PatientName": "LUNG1-029",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-036",
+    "PatientName": "LUNG1-036",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-056",
+    "PatientName": "LUNG1-056",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-135",
+    "PatientName": "LUNG1-135",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-189",
+    "PatientName": "LUNG1-189",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-192",
+    "PatientName": "LUNG1-192",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-196",
+    "PatientName": "LUNG1-196",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-200",
+    "PatientName": "LUNG1-200",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-202",
+    "PatientName": "LUNG1-202",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-205",
+    "PatientName": "LUNG1-205",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-206",
+    "PatientName": "LUNG1-206",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-210",
+    "PatientName": "LUNG1-210",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-211",
+    "PatientName": "LUNG1-211",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-213",
+    "PatientName": "LUNG1-213",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-215",
+    "PatientName": "LUNG1-215",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-216",
+    "PatientName": "LUNG1-216",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-217",
+    "PatientName": "LUNG1-217",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-218",
+    "PatientName": "LUNG1-218",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-219",
+    "PatientName": "LUNG1-219",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-220",
+    "PatientName": "LUNG1-220",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-221",
+    "PatientName": "LUNG1-221",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-223",
+    "PatientName": "LUNG1-223",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-224",
+    "PatientName": "LUNG1-224",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-225",
+    "PatientName": "LUNG1-225",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-226",
+    "PatientName": "LUNG1-226",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-229",
+    "PatientName": "LUNG1-229",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-230",
+    "PatientName": "LUNG1-230",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-231",
+    "PatientName": "LUNG1-231",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-232",
+    "PatientName": "LUNG1-232",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-233",
+    "PatientName": "LUNG1-233",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-234",
+    "PatientName": "LUNG1-234",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-235",
+    "PatientName": "LUNG1-235",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-236",
+    "PatientName": "LUNG1-236",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-237",
+    "PatientName": "LUNG1-237",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-238",
+    "PatientName": "LUNG1-238",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-239",
+    "PatientName": "LUNG1-239",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-240",
+    "PatientName": "LUNG1-240",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-241",
+    "PatientName": "LUNG1-241",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-242",
+    "PatientName": "LUNG1-242",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-243",
+    "PatientName": "LUNG1-243",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-244",
+    "PatientName": "LUNG1-244",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-245",
+    "PatientName": "LUNG1-245",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-246",
+    "PatientName": "LUNG1-246",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-247",
+    "PatientName": "LUNG1-247",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-248",
+    "PatientName": "LUNG1-248",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-249",
+    "PatientName": "LUNG1-249",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-250",
+    "PatientName": "LUNG1-250",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-251",
+    "PatientName": "LUNG1-251",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-253",
+    "PatientName": "LUNG1-253",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-254",
+    "PatientName": "LUNG1-254",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-255",
+    "PatientName": "LUNG1-255",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-256",
+    "PatientName": "LUNG1-256",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-257",
+    "PatientName": "LUNG1-257",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-258",
+    "PatientName": "LUNG1-258",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-259",
+    "PatientName": "LUNG1-259",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-260",
+    "PatientName": "LUNG1-260",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-261",
+    "PatientName": "LUNG1-261",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-262",
+    "PatientName": "LUNG1-262",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-263",
+    "PatientName": "LUNG1-263",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-264",
+    "PatientName": "LUNG1-264",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-265",
+    "PatientName": "LUNG1-265",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-266",
+    "PatientName": "LUNG1-266",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-267",
+    "PatientName": "LUNG1-267",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-268",
+    "PatientName": "LUNG1-268",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-269",
+    "PatientName": "LUNG1-269",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-270",
+    "PatientName": "LUNG1-270",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-271",
+    "PatientName": "LUNG1-271",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-272",
+    "PatientName": "LUNG1-272",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-274",
+    "PatientName": "LUNG1-274",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-275",
+    "PatientName": "LUNG1-275",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-276",
+    "PatientName": "LUNG1-276",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-277",
+    "PatientName": "LUNG1-277",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-279",
+    "PatientName": "LUNG1-279",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-280",
+    "PatientName": "LUNG1-280",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-282",
+    "PatientName": "LUNG1-282",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-286",
+    "PatientName": "LUNG1-286",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-287",
+    "PatientName": "LUNG1-287",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-288",
+    "PatientName": "LUNG1-288",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-289",
+    "PatientName": "LUNG1-289",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-290",
+    "PatientName": "LUNG1-290",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-291",
+    "PatientName": "LUNG1-291",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-294",
+    "PatientName": "LUNG1-294",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-295",
+    "PatientName": "LUNG1-295",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-296",
+    "PatientName": "LUNG1-296",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-299",
+    "PatientName": "LUNG1-299",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-300",
+    "PatientName": "LUNG1-300",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-301",
+    "PatientName": "LUNG1-301",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-303",
+    "PatientName": "LUNG1-303",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-304",
+    "PatientName": "LUNG1-304",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-305",
+    "PatientName": "LUNG1-305",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-306",
+    "PatientName": "LUNG1-306",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-307",
+    "PatientName": "LUNG1-307",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-308",
+    "PatientName": "LUNG1-308",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-309",
+    "PatientName": "LUNG1-309",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-312",
+    "PatientName": "LUNG1-312",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-313",
+    "PatientName": "LUNG1-313",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-314",
+    "PatientName": "LUNG1-314",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-316",
+    "PatientName": "LUNG1-316",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-318",
+    "PatientName": "LUNG1-318",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-319",
+    "PatientName": "LUNG1-319",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-320",
+    "PatientName": "LUNG1-320",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-322",
+    "PatientName": "LUNG1-322",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-323",
+    "PatientName": "LUNG1-323",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-324",
+    "PatientName": "LUNG1-324",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-325",
+    "PatientName": "LUNG1-325",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-327",
+    "PatientName": "LUNG1-327",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-328",
+    "PatientName": "LUNG1-328",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-329",
+    "PatientName": "LUNG1-329",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-330",
+    "PatientName": "LUNG1-330",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-331",
+    "PatientName": "LUNG1-331",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-333",
+    "PatientName": "LUNG1-333",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-335",
+    "PatientName": "LUNG1-335",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-336",
+    "PatientName": "LUNG1-336",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-337",
+    "PatientName": "LUNG1-337",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-338",
+    "PatientName": "LUNG1-338",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-339",
+    "PatientName": "LUNG1-339",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-340",
+    "PatientName": "LUNG1-340",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-341",
+    "PatientName": "LUNG1-341",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-342",
+    "PatientName": "LUNG1-342",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-343",
+    "PatientName": "LUNG1-343",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-344",
+    "PatientName": "LUNG1-344",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-345",
+    "PatientName": "LUNG1-345",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-346",
+    "PatientName": "LUNG1-346",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-347",
+    "PatientName": "LUNG1-347",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-348",
+    "PatientName": "LUNG1-348",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-349",
+    "PatientName": "LUNG1-349",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-351",
+    "PatientName": "LUNG1-351",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-352",
+    "PatientName": "LUNG1-352",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-353",
+    "PatientName": "LUNG1-353",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-356",
+    "PatientName": "LUNG1-356",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-357",
+    "PatientName": "LUNG1-357",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-359",
+    "PatientName": "LUNG1-359",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-360",
+    "PatientName": "LUNG1-360",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-361",
+    "PatientName": "LUNG1-361",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-362",
+    "PatientName": "LUNG1-362",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-363",
+    "PatientName": "LUNG1-363",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-364",
+    "PatientName": "LUNG1-364",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-365",
+    "PatientName": "LUNG1-365",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-366",
+    "PatientName": "LUNG1-366",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-367",
+    "PatientName": "LUNG1-367",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-368",
+    "PatientName": "LUNG1-368",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-369",
+    "PatientName": "LUNG1-369",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-370",
+    "PatientName": "LUNG1-370",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-371",
+    "PatientName": "LUNG1-371",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-372",
+    "PatientName": "LUNG1-372",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-373",
+    "PatientName": "LUNG1-373",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-374",
+    "PatientName": "LUNG1-374",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-375",
+    "PatientName": "LUNG1-375",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-376",
+    "PatientName": "LUNG1-376",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-377",
+    "PatientName": "LUNG1-377",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-378",
+    "PatientName": "LUNG1-378",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-379",
+    "PatientName": "LUNG1-379",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-381",
+    "PatientName": "LUNG1-381",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-382",
+    "PatientName": "LUNG1-382",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-383",
+    "PatientName": "LUNG1-383",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-384",
+    "PatientName": "LUNG1-384",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-386",
+    "PatientName": "LUNG1-386",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-388",
+    "PatientName": "LUNG1-388",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-389",
+    "PatientName": "LUNG1-389",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-390",
+    "PatientName": "LUNG1-390",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-393",
+    "PatientName": "LUNG1-393",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-395",
+    "PatientName": "LUNG1-395",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-396",
+    "PatientName": "LUNG1-396",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-397",
+    "PatientName": "LUNG1-397",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-399",
+    "PatientName": "LUNG1-399",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-400",
+    "PatientName": "LUNG1-400",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-401",
+    "PatientName": "LUNG1-401",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-402",
+    "PatientName": "LUNG1-402",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-403",
+    "PatientName": "LUNG1-403",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-404",
+    "PatientName": "LUNG1-404",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-405",
+    "PatientName": "LUNG1-405",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-410",
+    "PatientName": "LUNG1-410",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-411",
+    "PatientName": "LUNG1-411",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-412",
+    "PatientName": "LUNG1-412",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-413",
+    "PatientName": "LUNG1-413",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-414",
+    "PatientName": "LUNG1-414",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-416",
+    "PatientName": "LUNG1-416",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-417",
+    "PatientName": "LUNG1-417",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-418",
+    "PatientName": "LUNG1-418",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-419",
+    "PatientName": "LUNG1-419",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-420",
+    "PatientName": "LUNG1-420",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-421",
+    "PatientName": "LUNG1-421",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-002",
+    "PatientName": "LUNG1-002",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-003",
+    "PatientName": "LUNG1-003",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-005",
+    "PatientName": "LUNG1-005",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-006",
+    "PatientName": "LUNG1-006",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-008",
+    "PatientName": "LUNG1-008",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-009",
+    "PatientName": "LUNG1-009",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-010",
+    "PatientName": "LUNG1-010",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-011",
+    "PatientName": "LUNG1-011",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-012",
+    "PatientName": "LUNG1-012",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-014",
+    "PatientName": "LUNG1-014",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-015",
+    "PatientName": "LUNG1-015",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-016",
+    "PatientName": "LUNG1-016",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-017",
+    "PatientName": "LUNG1-017",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-018",
+    "PatientName": "LUNG1-018",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-019",
+    "PatientName": "LUNG1-019",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-020",
+    "PatientName": "LUNG1-020",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-021",
+    "PatientName": "LUNG1-021",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-022",
+    "PatientName": "LUNG1-022",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-023",
+    "PatientName": "LUNG1-023",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-024",
+    "PatientName": "LUNG1-024",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-025",
+    "PatientName": "LUNG1-025",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-026",
+    "PatientName": "LUNG1-026",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-027",
+    "PatientName": "LUNG1-027",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-028",
+    "PatientName": "LUNG1-028",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-030",
+    "PatientName": "LUNG1-030",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-031",
+    "PatientName": "LUNG1-031",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-033",
+    "PatientName": "LUNG1-033",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-034",
+    "PatientName": "LUNG1-034",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-035",
+    "PatientName": "LUNG1-035",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-037",
+    "PatientName": "LUNG1-037",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-038",
+    "PatientName": "LUNG1-038",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-039",
+    "PatientName": "LUNG1-039",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-040",
+    "PatientName": "LUNG1-040",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-041",
+    "PatientName": "LUNG1-041",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-042",
+    "PatientName": "LUNG1-042",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-043",
+    "PatientName": "LUNG1-043",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-044",
+    "PatientName": "LUNG1-044",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-045",
+    "PatientName": "LUNG1-045",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-046",
+    "PatientName": "LUNG1-046",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-047",
+    "PatientName": "LUNG1-047",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-049",
+    "PatientName": "LUNG1-049",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-050",
+    "PatientName": "LUNG1-050",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-052",
+    "PatientName": "LUNG1-052",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-053",
+    "PatientName": "LUNG1-053",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-054",
+    "PatientName": "LUNG1-054",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-055",
+    "PatientName": "LUNG1-055",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-057",
+    "PatientName": "LUNG1-057",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-059",
+    "PatientName": "LUNG1-059",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-060",
+    "PatientName": "LUNG1-060",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-061",
+    "PatientName": "LUNG1-061",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-062",
+    "PatientName": "LUNG1-062",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-063",
+    "PatientName": "LUNG1-063",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-064",
+    "PatientName": "LUNG1-064",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-066",
+    "PatientName": "LUNG1-066",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-068",
+    "PatientName": "LUNG1-068",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-069",
+    "PatientName": "LUNG1-069",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-070",
+    "PatientName": "LUNG1-070",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-074",
+    "PatientName": "LUNG1-074",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-076",
+    "PatientName": "LUNG1-076",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-078",
+    "PatientName": "LUNG1-078",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-081",
+    "PatientName": "LUNG1-081",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-085",
+    "PatientName": "LUNG1-085",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-087",
+    "PatientName": "LUNG1-087",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-088",
+    "PatientName": "LUNG1-088",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-089",
+    "PatientName": "LUNG1-089",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-091",
+    "PatientName": "LUNG1-091",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-101",
+    "PatientName": "LUNG1-101",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-107",
+    "PatientName": "LUNG1-107",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-117",
+    "PatientName": "LUNG1-117",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-125",
+    "PatientName": "LUNG1-125",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-140",
+    "PatientName": "LUNG1-140",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-154",
+    "PatientName": "LUNG1-154",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-155",
+    "PatientName": "LUNG1-155",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-158",
+    "PatientName": "LUNG1-158",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-159",
+    "PatientName": "LUNG1-159",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-170",
+    "PatientName": "LUNG1-170",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-173",
+    "PatientName": "LUNG1-173",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-177",
+    "PatientName": "LUNG1-177",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-180",
+    "PatientName": "LUNG1-180",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-182",
+    "PatientName": "LUNG1-182",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-184",
+    "PatientName": "LUNG1-184",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-185",
+    "PatientName": "LUNG1-185",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-186",
+    "PatientName": "LUNG1-186",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-187",
+    "PatientName": "LUNG1-187",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-188",
+    "PatientName": "LUNG1-188",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-190",
+    "PatientName": "LUNG1-190",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-194",
+    "PatientName": "LUNG1-194",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-198",
+    "PatientName": "LUNG1-198",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-201",
+    "PatientName": "LUNG1-201",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-203",
+    "PatientName": "LUNG1-203",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-204",
+    "PatientName": "LUNG1-204",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-207",
+    "PatientName": "LUNG1-207",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-209",
+    "PatientName": "LUNG1-209",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-228",
+    "PatientName": "LUNG1-228",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-004",
+    "PatientName": "LUNG1-004",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-013",
+    "PatientName": "LUNG1-013",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-032",
+    "PatientName": "LUNG1-032",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-051",
+    "PatientName": "LUNG1-051",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-072",
+    "PatientName": "LUNG1-072",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-077",
+    "PatientName": "LUNG1-077",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-080",
+    "PatientName": "LUNG1-080",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-090",
+    "PatientName": "LUNG1-090",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-094",
+    "PatientName": "LUNG1-094",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-097",
+    "PatientName": "LUNG1-097",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-098",
+    "PatientName": "LUNG1-098",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-100",
+    "PatientName": "LUNG1-100",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-102",
+    "PatientName": "LUNG1-102",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-103",
+    "PatientName": "LUNG1-103",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-105",
+    "PatientName": "LUNG1-105",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-106",
+    "PatientName": "LUNG1-106",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-109",
+    "PatientName": "LUNG1-109",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-113",
+    "PatientName": "LUNG1-113",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-114",
+    "PatientName": "LUNG1-114",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-115",
+    "PatientName": "LUNG1-115",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-116",
+    "PatientName": "LUNG1-116",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-119",
+    "PatientName": "LUNG1-119",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-120",
+    "PatientName": "LUNG1-120",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-121",
+    "PatientName": "LUNG1-121",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-122",
+    "PatientName": "LUNG1-122",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-123",
+    "PatientName": "LUNG1-123",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-124",
+    "PatientName": "LUNG1-124",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-126",
+    "PatientName": "LUNG1-126",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-127",
+    "PatientName": "LUNG1-127",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-128",
+    "PatientName": "LUNG1-128",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-129",
+    "PatientName": "LUNG1-129",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-130",
+    "PatientName": "LUNG1-130",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-131",
+    "PatientName": "LUNG1-131",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-132",
+    "PatientName": "LUNG1-132",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-133",
+    "PatientName": "LUNG1-133",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-134",
+    "PatientName": "LUNG1-134",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-136",
+    "PatientName": "LUNG1-136",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-139",
+    "PatientName": "LUNG1-139",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-141",
+    "PatientName": "LUNG1-141",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-142",
+    "PatientName": "LUNG1-142",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-145",
+    "PatientName": "LUNG1-145",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-147",
+    "PatientName": "LUNG1-147",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-148",
+    "PatientName": "LUNG1-148",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-150",
+    "PatientName": "LUNG1-150",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-151",
+    "PatientName": "LUNG1-151",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-152",
+    "PatientName": "LUNG1-152",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-153",
+    "PatientName": "LUNG1-153",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-156",
+    "PatientName": "LUNG1-156",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-157",
+    "PatientName": "LUNG1-157",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-160",
+    "PatientName": "LUNG1-160",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-161",
+    "PatientName": "LUNG1-161",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-162",
+    "PatientName": "LUNG1-162",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-163",
+    "PatientName": "LUNG1-163",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-165",
+    "PatientName": "LUNG1-165",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-169",
+    "PatientName": "LUNG1-169",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-171",
+    "PatientName": "LUNG1-171",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-172",
+    "PatientName": "LUNG1-172",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-174",
+    "PatientName": "LUNG1-174",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-175",
+    "PatientName": "LUNG1-175",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-176",
+    "PatientName": "LUNG1-176",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-178",
+    "PatientName": "LUNG1-178",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-179",
+    "PatientName": "LUNG1-179",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-181",
+    "PatientName": "LUNG1-181",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-183",
+    "PatientName": "LUNG1-183",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-191",
+    "PatientName": "LUNG1-191",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-193",
+    "PatientName": "LUNG1-193",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-195",
+    "PatientName": "LUNG1-195",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-197",
+    "PatientName": "LUNG1-197",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-199",
+    "PatientName": "LUNG1-199",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-208",
+    "PatientName": "LUNG1-208",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-212",
+    "PatientName": "LUNG1-212",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-214",
+    "PatientName": "LUNG1-214",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-222",
+    "PatientName": "LUNG1-222",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-227",
+    "PatientName": "LUNG1-227",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-252",
+    "PatientName": "LUNG1-252",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-273",
+    "PatientName": "LUNG1-273",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-278",
+    "PatientName": "LUNG1-278",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-281",
+    "PatientName": "LUNG1-281",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-283",
+    "PatientName": "LUNG1-283",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-284",
+    "PatientName": "LUNG1-284",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-285",
+    "PatientName": "LUNG1-285",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-293",
+    "PatientName": "LUNG1-293",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-297",
+    "PatientName": "LUNG1-297",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-298",
+    "PatientName": "LUNG1-298",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-302",
+    "PatientName": "LUNG1-302",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-310",
+    "PatientName": "LUNG1-310",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-311",
+    "PatientName": "LUNG1-311",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-315",
+    "PatientName": "LUNG1-315",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-317",
+    "PatientName": "LUNG1-317",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-321",
+    "PatientName": "LUNG1-321",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-326",
+    "PatientName": "LUNG1-326",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-332",
+    "PatientName": "LUNG1-332",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-334",
+    "PatientName": "LUNG1-334",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-350",
+    "PatientName": "LUNG1-350",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-354",
+    "PatientName": "LUNG1-354",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-355",
+    "PatientName": "LUNG1-355",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-358",
+    "PatientName": "LUNG1-358",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-380",
+    "PatientName": "LUNG1-380",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-385",
+    "PatientName": "LUNG1-385",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-387",
+    "PatientName": "LUNG1-387",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-048",
+    "PatientName": "LUNG1-048",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-065",
+    "PatientName": "LUNG1-065",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-067",
+    "PatientName": "LUNG1-067",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-071",
+    "PatientName": "LUNG1-071",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-073",
+    "PatientName": "LUNG1-073",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-075",
+    "PatientName": "LUNG1-075",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-079",
+    "PatientName": "LUNG1-079",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-082",
+    "PatientName": "LUNG1-082",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-084",
+    "PatientName": "LUNG1-084",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-086",
+    "PatientName": "LUNG1-086",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-092",
+    "PatientName": "LUNG1-092",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-093",
+    "PatientName": "LUNG1-093",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-096",
+    "PatientName": "LUNG1-096",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-104",
+    "PatientName": "LUNG1-104",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-108",
+    "PatientName": "LUNG1-108",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-110",
+    "PatientName": "LUNG1-110",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-111",
+    "PatientName": "LUNG1-111",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-112",
+    "PatientName": "LUNG1-112",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-143",
+    "PatientName": "LUNG1-143",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-144",
+    "PatientName": "LUNG1-144",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-146",
+    "PatientName": "LUNG1-146",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-164",
+    "PatientName": "LUNG1-164",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-166",
+    "PatientName": "LUNG1-166",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-167",
+    "PatientName": "LUNG1-167",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-168",
+    "PatientName": "LUNG1-168",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-058",
+    "PatientName": "LUNG1-058",
+    "PatientSex": "O",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-099",
+    "PatientName": "LUNG1-099",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-118",
+    "PatientName": "LUNG1-118",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-138",
+    "PatientName": "LUNG1-138",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-292",
+    "PatientName": "LUNG1-292",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-149",
+    "PatientName": "LUNG1-149",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-391",
+    "PatientName": "LUNG1-391",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-392",
+    "PatientName": "LUNG1-392",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-394",
+    "PatientName": "LUNG1-394",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-398",
+    "PatientName": "LUNG1-398",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-406",
+    "PatientName": "LUNG1-406",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-407",
+    "PatientName": "LUNG1-407",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-408",
+    "PatientName": "LUNG1-408",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-409",
+    "PatientName": "LUNG1-409",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-415",
+    "PatientName": "LUNG1-415",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-422",
+    "PatientName": "LUNG1-422",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-137",
+    "PatientName": "LUNG1-137",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-083",
+    "PatientName": "LUNG1-083",
+    "PatientSex": "M",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  },
+  {
+    "PatientId": "LUNG1-095",
+    "PatientName": "LUNG1-095",
+    "PatientSex": "F",
+    "Collection": "NSCLC-Radiomics",
+    "Phantom": "NO",
+    "SpeciesCode": "337915000",
+    "SpeciesDescription": "Homo sapiens"
+  }
+]

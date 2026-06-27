@@ -1,0 +1,14 @@
+variable,missing_fraction
+Collection,0.0
+PatientId,0.0
+PatientName,0.0
+PatientSex,0.0
+Phantom,0.0
+SpeciesCode,0.0
+SpeciesDescription,0.0
+series_n,0.0
+total_image_count,0.0
+total_file_size_bytes,0.0
+modality_set,0.0
+manufacturer_set,0.0
+first_series_date,0.0

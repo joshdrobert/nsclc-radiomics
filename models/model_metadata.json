@@ -1,0 +1,15 @@
+{
+  "predictors": [
+    "age",
+    "clinical.T.Stage",
+    "Clinical.N.Stage",
+    "Clinical.M.Stage",
+    "Overall.Stage",
+    "Histology",
+    "gender",
+    "series_n",
+    "total_image_count"
+  ],
+  "outcome": "outcome_2yr_mortality",
+  "scaling_factor": 0.19036056869694767
+}
